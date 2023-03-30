@@ -18,3 +18,4 @@ const Page = ({ totalpost, postperpage, setCurrentPage }) => {
 };
 
 export default Page;
+

@@ -17,3 +17,5 @@ const Mapdata = ({ user }) => {
 };
 
 export default Mapdata;
+
+
