@@ -13,6 +13,8 @@ const Sort = () => {
 
   useEffect(() => {
     fetchData();
+
+  
   }, []);
 
   const ascending = () => {
